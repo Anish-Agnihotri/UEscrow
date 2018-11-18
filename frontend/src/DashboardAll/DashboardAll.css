@@ -1,0 +1,18 @@
+.centerItem > h1 {
+    font-size: 40px;
+    color: #403656;
+}
+.centerItem > p {
+    color: #403656;
+    font-size: 16px;
+}
+.centerItem {
+    text-align: center;
+    display: inline-block;
+    padding-left: 25vw;
+    padding-right: 25vw;
+}
+iframe {
+    margin-left: 0px;
+    padding-left: 90px;
+}

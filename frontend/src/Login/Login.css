@@ -1,0 +1,21 @@
+.Login-button {
+  color: white;
+  display: block;
+  font-size: 16px;
+  font-weight: 700px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 30px;
+  padding-right: 30px;
+  border-radius: 5px;
+  border: none;
+  margin-top: 12px;
+}
+
+.Login-button:hover {
+  opacity: 0.8;
+}
+
+.Login-mm {
+  background-color: #5A28C6;
+}

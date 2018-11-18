@@ -1,0 +1,29 @@
+.subHeader {
+    height: 75px;
+    width: 100%;
+    background-color: #5A28C6;
+    margin-top: -5px;
+    text-align: center;
+}
+
+.subHeader > ul {
+    list-style: none;
+    display: inline;
+    margin-left: -60px;
+}
+
+.subHeader > ul > li {
+    display: inline-block;
+    font-weight: 600;
+    color: #fefefe;
+    font-size: 18px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 27.5px;
+    border-bottom: 2px solid transparent;
+    transition: 0.1s ease-in-out;
+}
+
+.subHeader > ul > li:hover {
+    border-bottom-color: #fefefe;
+}
